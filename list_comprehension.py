@@ -9,19 +9,19 @@
 
 # For
 
-# GamesList = ["mario","dragonB", "luigis Mans", "Kirby"]
-# newList = []
-# for x in GamesList:
-#     if "a" in x:
-#         newList.append(x)
-# print(newList)
+GamesList = ["mario","dragonB", "luigis Mans", "Kirby"]
+newList = []
+for x in GamesList:
+    if "a" in x:
+        newList.append(x)
+print(newList)
 
 
 
 #list Comprehesion
 
-# newList = [x for x in GamesList if "a" in x]
-# print(newList)
+newList = [x for x in GamesList if "a" in x]
+print(newList)
 
 
 # # jogos que eu zerei
